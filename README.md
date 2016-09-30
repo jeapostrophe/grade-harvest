@@ -59,3 +59,18 @@ END
   interface where I can annotate what line of a file there are
   problems and choose from a list of common problems and then just
   plop in the line number by looking at the particular student's work.
+
+- Notes for helping in semi-auto-grading
+
+  301 - Do the thing of having good/bad implementations. Have it have
+  me read the code before allowing it to run and then show me the
+  results.
+
+  304 - Have the students send a picture of the answer to each
+  question
+
+  305 - Match 301 with different interpreter
+
+  308 - Same as 305
+
+  404 - Same as 304
